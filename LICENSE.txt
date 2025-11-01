@@ -1,0 +1,6 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Please read the resources about this license on this website:
+www.gnu.org/licenses/gpl-3.0.txt
+
