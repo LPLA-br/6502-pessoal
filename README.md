@@ -35,7 +35,9 @@ release (EXECUTA testes E tagficação PARA main E dev)
 - Apresentar display de caracteres (SHELL).
 - Apresentar display de píxeles de um byte (limited RGB) RRRGGGBB
 - memória solene de 64536 bytes
-    - Zero Page
+    - Zero Page 0000 00ff
+    - Stack     0100 01ff
+    - interrupt and reset vector respectivamente fffa ffff
 
 ## Requisitos satélites possíveis
 
