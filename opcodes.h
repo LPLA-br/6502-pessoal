@@ -1,5 +1,5 @@
-#ifndef OPCODES
-#define OPCODES
+#ifndef OPCODES_H_INCLUDED
+#define OPCODES_H_INCLUDED
 
 typedef enum 
 {

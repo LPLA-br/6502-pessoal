@@ -12,7 +12,8 @@ typedef struct
   uint8_t PonteiroPilha;
   uint8_t ContadorPrograma;
   
-  /*
+  /* NV-BDIZC
+   *
    * Negativo
    * Overflow/Estouro de limites
    * - sempre um
